@@ -150,6 +150,9 @@
         'cold',
         'blush',
         'sad',
+        'pogu',
+        'pepehands',
+        'weirdchamp',
       ].filter((v) => !this.recent.includes(v))
     }
 
