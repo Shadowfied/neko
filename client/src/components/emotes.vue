@@ -153,6 +153,8 @@
         'pogu',
         'pepehands',
         'weirdchamp',
+	'sadniner',
+	'kyut',
       ].filter((v) => !this.recent.includes(v))
     }
 
