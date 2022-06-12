@@ -153,8 +153,14 @@
         'pogu',
         'pepehands',
         'weirdchamp',
-	'sadniner',
-	'kyut',
+        'sadniner',
+        'kyut',
+        'booba',
+        'dance',
+        'pausechamp',
+        'AYAYA',
+        'yaYA',
+        'monkaX',
       ].filter((v) => !this.recent.includes(v))
     }
 
@@ -168,7 +174,7 @@
 
     sendEmote(emote: string) {
       if (!this.recent.includes(emote)) {
-        if (this.recent.length > 4) {
+        if (this.recent.length > 14) {
           this.recent.shift()
         }
         this.recent.push(emote)
