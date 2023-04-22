@@ -161,6 +161,7 @@
         'AYAYA',
         'yaYA',
         'monkaX',
+        'nyanPls',
       ].filter((v) => !this.recent.includes(v))
     }
 
