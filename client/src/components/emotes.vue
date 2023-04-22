@@ -162,6 +162,7 @@
         'yaYA',
         'monkaX',
         'nyanPls',
+	'widepeepo',
       ].filter((v) => !this.recent.includes(v))
     }
 
