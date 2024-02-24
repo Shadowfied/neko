@@ -163,6 +163,10 @@
         'monkaX',
         'nyanPls',
 	'widepeepo',
+	'Pepega',
+	'GIGACHAD',
+	'HAPPI',
+	'HAPPI',
       ].filter((v) => !this.recent.includes(v))
     }
 
